@@ -1,10 +1,10 @@
 <?php 
-$account = "08xxxxxxxxxx"; // nomor ovo
-$access = "cbax99xxxx9xxxxx"; // access ovo
-$amount = 1; // jumlah tf (bisa rp1)
-$transfer_to = "08xxxxxxxxxx"; // nomor ovo tumbal
+$account = "082282743016"; // nomor ovo
+$access = "7b05862f82d9c53bd6804b0552d81e66a8f2f3fa"; // access ovo
+$amount = 10000; // jumlah tf (bisa rp1)
+$transfer_to = "085206232135"; // nomor ovo tumbal
 
-$max=100; //akan otomatis close apabila sudah max
+$max=3; //akan otomatis close apabila sudah max
 
 $i=0;
 while ($i < $max) {
